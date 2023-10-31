@@ -1,0 +1,20 @@
+{
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/goldeneagle/jquery-easing/issues"
+  },
+  "dependencies": {},
+  "description": "",
+  "homepage": "https://github.com/goldeneagle/jquery-easing#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "jquery-easing",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:goldeneagle/jquery-easing.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" \u0026\u0026 exit 1"
+  },
+  "version": "1.0.0"
+}
